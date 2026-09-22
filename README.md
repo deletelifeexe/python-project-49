@@ -18,12 +18,13 @@
 ```bash
 git clone https://github.com/deletelifeexe/python-project-49.git
 cd python-project-49
+make install
 ```
 
 ## Использование
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
-
+[![asciicast](https://asciinema.org/a/axs88NUoDrBdxeIe.svg)](https://asciinema.org/a/axs88NUoDrBdxeIe)
 ---
 
 <details>
