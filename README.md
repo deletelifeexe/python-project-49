@@ -33,6 +33,8 @@ make install
 [![asciicast](https://asciinema.org/a/KsPYXfFuiA31l0i1.svg)](https://asciinema.org/a/KsPYXfFuiA31l0i1)
 3. Установка и демонстрация игры brain-gcd
 [![asciicast](https://asciinema.org/a/zEdUjYMJw4PBHvRU.svg)](https://asciinema.org/a/zEdUjYMJw4PBHvRU)
+4. Демонстрация игры brain-progression
+[![asciicast](https://asciinema.org/a/cAYVaLtxOAGn3FYE.svg)](https://asciinema.org/a/cAYVaLtxOAGn3FYE)
 ---
 
 <details>
