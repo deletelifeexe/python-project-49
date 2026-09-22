@@ -31,6 +31,8 @@ make install
 [![asciicast](https://asciinema.org/a/axs88NUoDrBdxeIe.svg)](https://asciinema.org/a/axs88NUoDrBdxeIe)
 2. Установка и демонстрация игры brain-calc
 [![asciicast](https://asciinema.org/a/KsPYXfFuiA31l0i1.svg)](https://asciinema.org/a/KsPYXfFuiA31l0i1)
+3. Установка и демонстрация игры brain-gcd
+[![asciicast](https://asciinema.org/a/zEdUjYMJw4PBHvRU.svg)](https://asciinema.org/a/zEdUjYMJw4PBHvRU)
 ---
 
 <details>
