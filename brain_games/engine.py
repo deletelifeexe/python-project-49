@@ -1,12 +1,8 @@
 import prompt
 
+from brain_games.cli import welcome_user
+
 ROUNDS = 3
-
-
-def welcome_user():
-    name = prompt.string("May I have your name? ")
-    print(f"Hello, {name}!")
-    return name
 
 
 def run_game(game):
@@ -15,11 +11,8 @@ def run_game(game):
     print(game.RULES)
 
     for _ in range(ROUNDS):
-        number, correct_answer = game.generate_round()
-        if isinstance(number, list):
-            print(f"Question: {' '.join(map(str, number))}")
-        else:
-            print(f'Question: {number}')
+        question, correct_answer = game.generate_round()
+        print(f'Question: {question}')
         answer = prompt.string('Your answer: ')
         if answer == str(correct_answer):
             print('Correct!')

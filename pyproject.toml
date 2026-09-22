@@ -1,9 +1,12 @@
 [project]
 name = "hexlet-code"
 version = "0.1.0"
-description = "Add your description here"
+description = "Brain Games - a set of CLI mini-games, for brain training"
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.12"
+authors = [
+    { name = "deletelifeexe", email = "deletelifeexe@proton.me" },
+]
 dependencies = [
     "prompt>=0.4.1",
 ]
