@@ -10,7 +10,10 @@
 ## Стек
 
 - Python
-
+- uv
+- Ruff
+- prompt
+- 
 ## Установка
 
 <!-- Опишите установку: клонирование, зависимости, переменные окружения -->
@@ -24,7 +27,10 @@ make install
 ## Использование
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
+1. Установка и демонстрация игры brain-even
 [![asciicast](https://asciinema.org/a/axs88NUoDrBdxeIe.svg)](https://asciinema.org/a/axs88NUoDrBdxeIe)
+2. Установка и демонстрация игры brain-calc
+[![asciicast](https://asciinema.org/a/KsPYXfFuiA31l0i1.svg)](https://asciinema.org/a/KsPYXfFuiA31l0i1)
 ---
 
 <details>
