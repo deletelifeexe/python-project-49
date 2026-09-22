@@ -16,7 +16,10 @@ def run_game(game):
 
     for _ in range(ROUNDS):
         number, correct_answer = game.generate_round()
-        print(f'Question: {number}')
+        if isinstance(number, list):
+            print(f"Question: {' '.join(map(str, number))}")
+        else:
+            print(f'Question: {number}')
         answer = prompt.string('Your answer: ')
         if answer == str(correct_answer):
             print('Correct!')
