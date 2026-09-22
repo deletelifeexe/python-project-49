@@ -13,7 +13,8 @@
 - uv
 - Ruff
 - prompt
-- 
+- math
+- random
 ## Установка
 
 <!-- Опишите установку: клонирование, зависимости, переменные окружения -->
@@ -22,19 +23,25 @@
 git clone https://github.com/deletelifeexe/python-project-49.git
 cd python-project-49
 make install
+make build
+make package-install
 ```
 
 ## Использование
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
-1. Установка и демонстрация игры brain-even
-[![asciicast](https://asciinema.org/a/axs88NUoDrBdxeIe.svg)](https://asciinema.org/a/axs88NUoDrBdxeIe)
-2. Установка и демонстрация игры brain-calc
-[![asciicast](https://asciinema.org/a/KsPYXfFuiA31l0i1.svg)](https://asciinema.org/a/KsPYXfFuiA31l0i1)
-3. Установка и демонстрация игры brain-gcd
-[![asciicast](https://asciinema.org/a/zEdUjYMJw4PBHvRU.svg)](https://asciinema.org/a/zEdUjYMJw4PBHvRU)
-4. Демонстрация игры brain-progression
+1. Установка проекта и демонстрация
+[![asciicast](https://asciinema.org/a/AQHnVnfX8jlLuuLx.svg)](https://asciinema.org/a/AQHnVnfX8jlLuuLx)
+2. Демонстрация игры brain-even
+[![asciicast](https://asciinema.org/a/jAr9lA3TgTwvzHId.svg)](https://asciinema.org/a/jAr9lA3TgTwvzHId)
+3. Демонстрация игры brain-calc
+[![asciicast](https://asciinema.org/a/U4i7xdyp2lHTQypL.svg)](https://asciinema.org/a/U4i7xdyp2lHTQypL)
+4. Демонстрация игры brain-gcd
+[![asciicast](https://asciinema.org/a/GCOlov8Ha5uw6eVQ.svg)](https://asciinema.org/a/GCOlov8Ha5uw6eVQ)
+5. Демонстрация игры brain-progression
 [![asciicast](https://asciinema.org/a/cAYVaLtxOAGn3FYE.svg)](https://asciinema.org/a/cAYVaLtxOAGn3FYE)
+6. Демонстрация игры brain-prime
+[![asciicast](https://asciinema.org/a/TIKTZ5fHNTFN1YcE.svg)](https://asciinema.org/a/TIKTZ5fHNTFN1YcE)
 ---
 
 <details>
