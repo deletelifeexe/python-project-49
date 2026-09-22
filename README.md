@@ -17,6 +17,7 @@
 
 [![asciicast](https://asciinema.org/a/AQHnVnfX8jlLuuLx.svg)](https://asciinema.org/a/AQHnVnfX8jlLuuLx)
 
+<!-- Опишите установку: клонирование, зависимости, переменные окружения -->
 
 ```bash
 git clone https://github.com/deletelifeexe/python-project-49.git
@@ -28,6 +29,7 @@ make package-install
 
 ## Использование
 
+<!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
 1. Демонстрация игры brain-even
 [![asciicast](https://asciinema.org/a/jAr9lA3TgTwvzHId.svg)](https://asciinema.org/a/jAr9lA3TgTwvzHId)
 2. Демонстрация игры brain-calc
