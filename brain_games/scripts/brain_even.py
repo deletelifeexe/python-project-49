@@ -29,9 +29,8 @@ def brain_even(name):
             print(f"{answer} is wrong answer ;(. "
                   f"Correct answer is was {parity_check(random_number)}")
             print(f"Let's try again, {name}!")
-            break
-    if count_win_answers == 3:
-        print(f"Congratulations, {name}!")
+            return
+    print(f"Congratulations, {name}!")
 
 
 def main():
