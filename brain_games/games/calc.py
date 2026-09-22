@@ -12,9 +12,9 @@ OPS = {"*": operator.mul,
 
 
 def generate_round():
-    random_numb_first = random.randint(MIN_NUMBER, MAX_NUMBER)
-    random_numb_second = random.randint(MIN_NUMBER, MAX_NUMBER)
+    first_number = random.randint(MIN_NUMBER, MAX_NUMBER)
+    second_number = random.randint(MIN_NUMBER, MAX_NUMBER)
     random_sign = random.choice(list(OPS))
-    expression = f"{random_numb_first} {random_sign} {random_numb_second}"
-    correct_answer = OPS[random_sign](random_numb_first, random_numb_second)
-    return expression, correct_answer
+    question = f"{first_number} {random_sign} {second_number}"
+    correct_answer = OPS[random_sign](first_number, second_number)
+    return question, correct_answer
